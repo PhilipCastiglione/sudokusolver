@@ -5,7 +5,7 @@ except ImportError:
 
 config = {
     'description': 'A program to solve sudoku for given input from a user! Or \
-					really a demonstration project showing off python coding.',
+	really a demonstration project showing off python coding.',
     'author': 'Philip Castiglione',
     'url': 'PLACEHOLDER',
     'download_url': 'PLACEHOLDER',
