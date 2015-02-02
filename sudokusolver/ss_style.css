@@ -1,0 +1,30 @@
+body {
+	max-width: 1000px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+table{
+	border: 2px solid black;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: center;
+	margin: 50px auto;
+}
+
+td {
+	padding: 3px;
+	border: 1px solid black;
+	width: 30px;
+	height: 30px;
+}
+
+td.right {border-right:2px solid black}
+td.bottom {border-bottom:2px solid black}
+
+input {
+	border-style: none;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+}

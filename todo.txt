@@ -1,0 +1,7 @@
+connect web front end for input to solver
+return solver result to web
+add error messages for incorrect input
+add error messages for incorrect output
+final polish
+get onto github
+put link in GA WDI site
