@@ -1,6 +1,8 @@
 build and connect web front end for input to solver
 return solver result to web
 
+port to python 3!
+
 test logic is complete with larger range of puzzles
 
 add error messages for incorrect input
