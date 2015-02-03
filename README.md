@@ -1,5 +1,5 @@
 # sudokusolver
-A little sudoku solvin' son of a gun, written in python
+A little sudoku solvin' son of a gun, written in python 2
 
 I am learning how to a COMPUTER PROGRAMMER! Specifically a software (probably web) developer.
 Hence, this project. Also: fun.
